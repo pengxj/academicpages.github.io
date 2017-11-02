@@ -27,6 +27,14 @@ Full list at [Google Scholar](https://scholar.google.com/citations?user=7oRD67kA
 
  1. Xiaojiang Peng, Yu Qiao, etc. Boosting VLAD with Supervised Dictionary Learning and High-Order Statistics. European Conference on Computer Vision (ECCV), Zurich, Switzerland, 2014. [[PDF](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/pwqp_eccv14_shvlad.pdf), [Bibtex](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/pengeccv14_shvlad.bib), [Poster](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/poster_eccv2014_shvlad.pdf)]
 
+ 1. Xiaojiang Peng, Limin Wang, etc. Action and Gesture Temporal Spotting with Super Vector Representation. ChaLearn Looking at People (LAP) workshop, ECCV, 2014. [[PDF](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/pwcq_eccvw14_chalearn.pdf), [Bibtex](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/penglap14.bib)] ** Winner of both track 1 and track2, and rank 4th for track3 **.
+
+ 1. Zuowei Cai, Limin Wang, Xiaojiang Peng, Yu Qiao. Multi-View Super Vector for Action Recognition. CVPR, 2014. (** oral **)
  
+ 1. Xiaojiang Peng, Limin Wang, etc. A Joint Evaluation of Dictionary Learning and Feature Encoding for Action Recognition. International Conference on Pattern Recognition (ICPR), 2014.
+
+ 1. Xiaojiang Peng, Yu Qiao, etc. Exploring Motion Boundary Based Sampling and Spatial-temporal Context Descriptors for Action Recognition. British Machine Vision Conference (BMVC), 2013.
+ 
+ 1. Xiaojiang Peng, Yu Qiao, etc. Hybrid Super Vector with Improved Dense Trajectories for Action Recognition. THUMOS'13 Action Recognition Challenge Workshop, ICCV, 2013. 
 
  
