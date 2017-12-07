@@ -19,6 +19,6 @@ My current interests focus on
 
 * face detection, alignment, and recognition
 * video action detection and recognition
-* facial emotion recognition
-* product fashion attribute classification
-* deep learning architecture designing, training, and optimization.  
+* human emotion analysis
+* product fashion image analysis
+* reduced supervision deep learning.  
