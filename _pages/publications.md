@@ -17,6 +17,10 @@ Full list at [Google Scholar](https://scholar.google.com/citations?user=7oRD67kA
 
 ### Conference papers
  
+ 1. Jianfei Yang, Xiaojiang Peng, Yu Qiao, etc. Deep Recurrent Multi-instance Learning with Spatio-temporal Features for Engagement Intensity Prediction. International Conference on Multimodal Interaction (ICMI’18), ACM.[[PDF](/files/icmi18-yang.pdf), [Poster](/files/icmi18-yang-poster.pdf), [Code]()]
+
+ 1. Kai Wang, Xiaojiang Peng, Yu Qiao, etc.Cascade Attention Networks For Group Emotion Recognition with Face, Body and Image Cues. International Conference on Multimodal Interaction (ICMI’18), ACM. [[PDF](/files/icmi18-wang.pdf), [Poster](/files/icmi18-wang-poster.pdf), [Code]()]
+
  1. Lianzhi Tan, Xiaojiang Peng, Yu Qiao, etc. Group Emotion Recognition with Individual Facial Emotion CNNs and Global Image Based CNNs. International Conference on Multimodal Interaction (ICMI’17), ACM. [[PDF](/files/icmi17-paper.pdf), [Poster](/files/icmi17-poster.pdf), [Code](https://github.com/pengxj/GroupEmotionRecognition)]
 
  1. Xiaojiang Peng and Cordelia Schmid. Multi-region two-stream R-CNN for action detection. European Conference on Computer Vision (ECCV), 2016. [[PDF](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/eccv2016-update2.pdf), [Bibtex](https://hal.inria.fr/hal-01349107/bibtex), [Poster](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/p-3a-14.pdf), [Code](https://github.com/pengxj/action-faster-rcnn)]
