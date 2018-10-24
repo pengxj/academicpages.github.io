@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**An internship position on action recognition is avaible**. Email: xj.peng@siat.ac.cn
 
 I am an Associate Professor at [MMLAB](mmlab.siat.ac.cn), Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences ([CAS-SIAT](http://www.siat.cas.cn/)), China and collaborate closely with Prof. [Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/index.html).
 
