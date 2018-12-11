@@ -7,6 +7,9 @@ author_profile: true
 Full list at [Google Scholar](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN)
 
 ### Journal papers
+
+ 1. Ge Jiao, Xiaojiang Peng, Wenkai Duan. Image encryption with the cross diffusion of two chaotic maps. KSII Transactions on Internet and Information Systems (TIIS), 2019.
+ 
  1. Guosheng Hu, Xiaojiang Peng, etc. Frankenstein: Learning Deep Face Representations using Small Data. IEEE Transactions on Image Processing, 2017. [[PDF](https://hal.inria.fr/hal-01306168/file/bare_jrnl.pdf)]
 
  1. Xiaojiang Peng, Limin Wang, Yu Qiao, etc. Bag of Visual Words and Fusion Methods for Action Recognition: Comprehensive Study and Good Practice. Computer Vision and Image Understanding (CVIU), 2016. [[PDF](http://www.sciencedirect.com/science/article/pii/S1077314216300091), [Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:edZV7MUJjCgJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWfqVgMuro_niexeRW3tB7JFFkp6Ft_Is&scisf=4&ct=citation&cd=0&hl=zh-CN&scfhb=1), [Code](https://xjpeng.weebly.com/software.html)] 
@@ -18,8 +21,6 @@ Full list at [Google Scholar](https://scholar.google.com/citations?user=7oRD67kA
 ### Conference papers
  
  1. Zhongying Deng, Xiaojiang Peng, Yu Qiao.  Residual Compensation Networks for Heterogeneous Face Recognition. AAAI 2019.[[PDF](), [Poster](), [Code]()]
-
- 1. Ge Jiao, Xiaojiang Peng, Wenkai Duan. Image encryption with the cross diffusion of two chaotic maps. KSII Transactions on Internet and Information Systems (TIIS), 2019.
 
  1. Jianfei Yang, Xiaojiang Peng, Yu Qiao, etc. Deep Recurrent Multi-instance Learning with Spatio-temporal Features for Engagement Intensity Prediction. International Conference on Multimodal Interaction (ICMI’18), ACM.[[PDF](/files/icmi18-yang.pdf), [Poster](/files/icmi18-yang-poster.pdf), [Code]()]
 
