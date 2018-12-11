@@ -17,6 +17,10 @@ Full list at [Google Scholar](https://scholar.google.com/citations?user=7oRD67kA
 
 ### Conference papers
  
+ 1. Zhongying Deng, Xiaojiang Peng, Yu Qiao.  Residual Compensation Networks for Heterogeneous Face Recognition. AAAI 2019.[[PDF](), [Poster](), [Code]()]
+
+ 1. Ge Jiao, Xiaojiang Peng, Wenkai Duan. Image encryption with the cross diffusion of two chaotic maps. KSII Transactions on Internet and Information Systems (TIIS), 2019.
+
  1. Jianfei Yang, Xiaojiang Peng, Yu Qiao, etc. Deep Recurrent Multi-instance Learning with Spatio-temporal Features for Engagement Intensity Prediction. International Conference on Multimodal Interaction (ICMI’18), ACM.[[PDF](/files/icmi18-yang.pdf), [Poster](/files/icmi18-yang-poster.pdf), [Code]()]
 
  1. Kai Wang, Xiaojiang Peng, Yu Qiao, etc.Cascade Attention Networks For Group Emotion Recognition with Face, Body and Image Cues. International Conference on Multimodal Interaction (ICMI’18), ACM. [[PDF](/files/icmi18-wang.pdf), [Poster](/files/icmi18-wang-poster.pdf), [Code]()]
