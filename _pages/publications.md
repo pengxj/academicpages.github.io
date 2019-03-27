@@ -8,7 +8,7 @@ Full list at [Google Scholar](https://scholar.google.com/citations?user=7oRD67kA
 
 ### Journal papers
 
- 1. Zhongying Deng, Xiaojiang Peng, Yu Qiao, Zhifeng Li. Mutual Component Convolutional Neural Networks for Heterogeneous Face Recognition. IEEE Transactions on Image Processing, 2019.
+ 1. Zhongying Deng, Xiaojiang Peng, Yu Qiao, Zhifeng Li. Mutual Component Convolutional Neural Networks for Heterogeneous Face Recognition. IEEE Transactions on Image Processing, 2019.[[PDF](/files/TIP19-MCCNN.pdf)]
 
  1. Longtao Chen, Xiaojiang Peng, etc. Recurrent Metric Networks and Batch Multiple Hypothesis for Multi-Object Tracking. IEEE Access, 2019.
 
@@ -24,7 +24,7 @@ Full list at [Google Scholar](https://scholar.google.com/citations?user=7oRD67kA
 
 ### Conference papers
  
- 1. Zhongying Deng, Xiaojiang Peng, Yu Qiao.  Residual Compensation Networks for Heterogeneous Face Recognition. AAAI 2019.[[PDF](), [Poster](), [Code]()]
+ 1. Zhongying Deng, Xiaojiang Peng, Yu Qiao.  Residual Compensation Networks for Heterogeneous Face Recognition. AAAI 2019.[[PDF](/files/AAAI19-RCN.pdf), [Poster](), [Code]()]
 
  1. Jianfei Yang, Xiaojiang Peng, Yu Qiao, etc. Deep Recurrent Multi-instance Learning with Spatio-temporal Features for Engagement Intensity Prediction. International Conference on Multimodal Interaction (ICMI’18), ACM.[[PDF](/files/icmi18-yang.pdf), [Poster](/files/icmi18-yang-poster.pdf), [Code]()]
 
