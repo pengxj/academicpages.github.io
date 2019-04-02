@@ -10,9 +10,9 @@ Full list at [Google Scholar](https://scholar.google.com/citations?user=7oRD67kA
 
  1. Zhongying Deng, Xiaojiang Peng, Yu Qiao, Zhifeng Li. Mutual Component Convolutional Neural Networks for Heterogeneous Face Recognition. IEEE Transactions on Image Processing, 2019.[[PDF](/files/TIP19-MCCNN.pdf)]
 
- 1. Longtao Chen, Xiaojiang Peng, etc. Recurrent Metric Networks and Batch Multiple Hypothesis for Multi-Object Tracking. IEEE Access, 2019.
+ 1. Longtao Chen, Xiaojiang Peng, etc. Recurrent Metric Networks and Batch Multiple Hypothesis for Multi-Object Tracking. IEEE Access, 2019.[[PDF](/files/IEEEAccess19-MOT.pdf)]
 
- 1. Ge Jiao, Xiaojiang Peng, Wenkai Duan. Image encryption with the cross diffusion of two chaotic maps. KSII Transactions on Internet and Information Systems (TIIS), 2019.
+ 1. Ge Jiao, Xiaojiang Peng, Wenkai Duan. Image encryption with the cross diffusion of two chaotic maps. KSII Transactions on Internet and Information Systems (TIIS), 2019.[[PDF](/files/TIIS19-ImageEncryption.pdf)]
  
  1. Guosheng Hu, Xiaojiang Peng, etc. Frankenstein: Learning Deep Face Representations using Small Data. IEEE Transactions on Image Processing, 2017. [[PDF](https://hal.inria.fr/hal-01306168/file/bare_jrnl.pdf)]
 
