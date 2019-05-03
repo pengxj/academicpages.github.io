@@ -3,7 +3,9 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
- * [10/2/2019] One paper on heterogeneous face recognition is accepted by IEEE TIP 2019, collaborated with Zhongying Deng.
+
+ * [01/05/2019] Two papers on facail expression recognition and visual-textual sentiment analysis are accepted by Inter. Conf. of Image Processing.
+ * [10/02/2019] One paper on heterogeneous face recognition is accepted by IEEE TIP 2019, collaborated with Zhongying Deng.
  * [10/12/2018] One paper on heterogeneous face recognition is accepted by AAAI 2019, collaborated with Zhongying Deng.
  * [18/08/2018] Two papers on emotion recognition are accepted by ICMI 2018.
  * [30/06/2018] We win the 'Engagement in the Wild' task and rank 2nd in the 'Group-level emotion recognition' task in [EmotiW 2018](https://sites.google.com/view/emotiw2018/challenge-details).
