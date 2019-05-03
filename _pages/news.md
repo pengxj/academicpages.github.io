@@ -4,7 +4,7 @@ permalink: /news/
 author_profile: true
 ---
 
- * [01/05/2019] Two papers on facail expression recognition and visual-textual sentiment analysis are accepted by Inter. Conf. of Image Processing.
+ * [01/05/2019] Two papers on facial expression recognition and visual-textual sentiment analysis are accepted by IEEE ICIP.
  * [10/02/2019] One paper on heterogeneous face recognition is accepted by IEEE TIP 2019, collaborated with Zhongying Deng.
  * [10/12/2018] One paper on heterogeneous face recognition is accepted by AAAI 2019, collaborated with Zhongying Deng.
  * [18/08/2018] Two papers on emotion recognition are accepted by ICMI 2018.
