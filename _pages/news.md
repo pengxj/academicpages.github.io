@@ -3,7 +3,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-
+ * [15/07/2019] One paper on Video Anomaly Detection is accepted by ACMM MM 2019.
  * [01/05/2019] Two papers on facial expression recognition and visual-textual sentiment analysis are accepted by IEEE ICIP.
  * [10/02/2019] One paper on heterogeneous face recognition is accepted by IEEE TIP 2019, collaborated with Zhongying Deng.
  * [10/12/2018] One paper on heterogeneous face recognition is accepted by AAAI 2019, collaborated with Zhongying Deng.
