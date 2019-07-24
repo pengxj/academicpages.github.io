@@ -3,6 +3,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+ * [23/07/2019] One paper on detailed 3D face reconstruction from single image is accepted by ICCV 2019.
  * [15/07/2019] One paper on Video Anomaly Detection is accepted by ACMM MM 2019.
  * [01/05/2019] Two papers on facial expression recognition and visual-textual sentiment analysis are accepted by IEEE ICIP.
  * [10/02/2019] One paper on heterogeneous face recognition is accepted by IEEE TIP 2019, collaborated with Zhongying Deng.
