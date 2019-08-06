@@ -23,11 +23,11 @@ Full list at [Google Scholar](https://scholar.google.com/citations?user=7oRD67kA
  1. Xiaojiang Peng, Yu Qiao, etc. Motion Boundary Based Sampling and 3D Co-occurrence Descriptors for Action Recognition. Image and Vision Computing (IVC), 2014. [[PDF](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/pqp_dtmb3dcofea.pdf), [Bibtex](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/pengivc2014.bib), [Code](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/ivc_release_code.zip)]
 
 ### Conference papers
- 1. Debin Meng, Xiaojiang Peng, Yu Qiao, etc. Exploring Emotion Features and Fusion Strategies for Audio-Video Emotion Recognition. International Conference on Multimodal Interaction (ICMI’19), ACM [[PDF]()]
+ 1. Debin Meng, Xiaojiang Peng, Yu Qiao, etc. Exploring Emotion Features and Fusion Strategies for Audio-Video Emotion Recognition. International Conference on Multimodal Interaction (ICMI’19), ACM [[PDF]()] <font color=red>Rank 3/22 in EmotiW19 task 3</font>
 
- 1. Da Guo, Xiaojiang Peng, Yu Qiao, etc. Exploring Regularizations with Face, Body and Image Cues for Group Cohesion Prediction. International Conference on Multimodal Interaction (ICMI’19), ACM [[PDF]()]
+ 1. Da Guo, Xiaojiang Peng, Yu Qiao, etc. Exploring Regularizations with Face, Body and Image Cues for Group Cohesion Prediction. International Conference on Multimodal Interaction (ICMI’19), ACM [[PDF]()] <font color=red> Rank 2 in EmotiW19 task 1</font>
  
- 1. Kai Wang, Xiaojiang Peng, Yu Qiao, etc. Bootstrap Model Ensemble and Rank Loss for Engagement Intensity Regression. International Conference on Multimodal Interaction (ICMI’19), ACM [[PDF](https://arxiv.org/pdf/1907.03422)]
+ 1. Kai Wang, Xiaojiang Peng, Yu Qiao, etc. Bootstrap Model Ensemble and Rank Loss for Engagement Intensity Regression. International Conference on Multimodal Interaction (ICMI’19), ACM [[PDF](https://arxiv.org/pdf/1907.03422)] <font color=red>Rank 3 in EmotiW19 task 2</font>
  
  1. Xiaoxing Zeng, Xiaojiang Peng, Yu Qiao. DF2Net: A Dense-Fine-Finer Network for Detailed 3D Face Reconstruction. ICCV, 2019. [[PDF]()]
  
