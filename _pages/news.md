@@ -3,6 +3,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+ * [06/08/2019] Three papers on facial emotion are accepted by ICMI 2019.
  * [23/07/2019] One paper on detailed 3D face reconstruction from single image is accepted by ICCV 2019.
  * [15/07/2019] One paper on Video Anomaly Detection is accepted by ACMM MM 2019.
  * [01/05/2019] Two papers on facial expression recognition and visual-textual sentiment analysis are accepted by IEEE ICIP.
