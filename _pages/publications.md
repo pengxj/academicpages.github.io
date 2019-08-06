@@ -23,19 +23,25 @@ Full list at [Google Scholar](https://scholar.google.com/citations?user=7oRD67kA
  1. Xiaojiang Peng, Yu Qiao, etc. Motion Boundary Based Sampling and 3D Co-occurrence Descriptors for Action Recognition. Image and Vision Computing (IVC), 2014. [[PDF](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/pqp_dtmb3dcofea.pdf), [Bibtex](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/pengivc2014.bib), [Code](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/ivc_release_code.zip)]
 
 ### Conference papers
+ 1. Debin Meng, Xiaojiang Peng, Yu Qiao, etc. Exploring Emotion Features and Fusion Strategies for Audio-Video Emotion Recognition. International Conference on Multimodal Interaction (ICMI’19), ACM [[PDF]()]
+
+ 1. Da Guo, Xiaojiang Peng, Yu Qiao, etc. Exploring Regularizations with Face, Body and Image Cues for Group Cohesion Prediction. International Conference on Multimodal Interaction (ICMI’19), ACM [[PDF]()]
+ 
+ 1. Kai Wang, Xiaojiang Peng, Yu Qiao, etc. Bootstrap Model Ensemble and Rank Loss for Engagement Intensity Regression. International Conference on Multimodal Interaction (ICMI’19), ACM [[PDF](https://arxiv.org/pdf/1907.03422)]
+ 
  1. Xiaoxing Zeng, Xiaojiang Peng, Yu Qiao. DF2Net: A Dense-Fine-Finer Network for Detailed 3D Face Reconstruction. ICCV, 2019. [[PDF]()]
  
  1. Muchao Ye, Xiaojiang Peng, Yu Qiao, etc. AnoPCN: Video Anomaly Detection via Deep Predictive Coding Network. ACM MultiMedia, 2019. [[PDF]()]
 
- 1. Debin Meng, Xiaojiang Peng, Yu Qiao, etc. Frame Attention Networks for Facial Expression Recognition in Videos. ICIP, 2019. [[PDF]()]
+ 1. Debin Meng, Xiaojiang Peng, Yu Qiao, etc. Frame Attention Networks for Facial Expression Recognition in Videos. ICIP, 2019. [[PDF](https://arxiv.org/pdf/1907.00193.pdf)]
  
  1. Jin Ye, Xiaojiang Peng, Yu Qiao, etc. Visual-Textual Sentiment Analysis in Product Reviews. ICIP, 2019. [[PDF]()]
  
- 1. Zhongying Deng, Xiaojiang Peng, Yu Qiao.  Residual Compensation Networks for Heterogeneous Face Recognition. AAAI, 2019.[[PDF](/files/AAAI19-RCN.pdf), [Poster](), [Code]()]
+ 1. Zhongying Deng, Xiaojiang Peng, Yu Qiao.  Residual Compensation Networks for Heterogeneous Face Recognition. AAAI, 2019.[[PDF](/files/AAAI19-RCN.pdf)]
 
- 1. Jianfei Yang, Xiaojiang Peng, Yu Qiao, etc. Deep Recurrent Multi-instance Learning with Spatio-temporal Features for Engagement Intensity Prediction. International Conference on Multimodal Interaction (ICMI’18), ACM.[[PDF](/files/icmi18-yang.pdf), [Poster](/files/icmi18-yang-poster.pdf), [Code]()]
+ 1. Jianfei Yang, Xiaojiang Peng, Yu Qiao, etc. Deep Recurrent Multi-instance Learning with Spatio-temporal Features for Engagement Intensity Prediction. International Conference on Multimodal Interaction (ICMI’18), ACM.[[PDF](/files/icmi18-yang.pdf), [Poster](/files/icmi18-yang-poster.pdf)
 
- 1. Kai Wang, Xiaojiang Peng, Yu Qiao, etc.Cascade Attention Networks For Group Emotion Recognition with Face, Body and Image Cues. International Conference on Multimodal Interaction (ICMI’18), ACM. [[PDF](/files/icmi18-wang.pdf), [Poster](/files/icmi18-wang-poster.pdf), [Code]()]
+ 1. Kai Wang, Xiaojiang Peng, Yu Qiao, etc.Cascade Attention Networks For Group Emotion Recognition with Face, Body and Image Cues. International Conference on Multimodal Interaction (ICMI’18), ACM. [[PDF](/files/icmi18-wang.pdf), [Poster](/files/icmi18-wang-poster.pdf)
 
  1. Lianzhi Tan, Xiaojiang Peng, Yu Qiao, etc. Group Emotion Recognition with Individual Facial Emotion CNNs and Global Image Based CNNs. International Conference on Multimodal Interaction (ICMI’17), ACM. [[PDF](/files/icmi17-paper.pdf), [Poster](/files/icmi17-poster.pdf), [Code](https://github.com/pengxj/GroupEmotionRecognition)]
 
