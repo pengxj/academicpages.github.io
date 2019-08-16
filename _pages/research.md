@@ -3,7 +3,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-### 1. Human action recognition and detection
+### Topic 1. Human action recognition and detection
+[Human action recognition and detection in videos is a fundamental video understanding problem. We mainly focus on recognition, spatial-temporal detection, and temporal localization]()
 
 1. Muchao Ye, Xiaojiang Peng, Yu Qiao, etc. AnoPCN: Video Anomaly Detection via Deep Predictive Coding Network. ACM MultiMedia, 2019.
 
@@ -17,8 +18,8 @@ author_profile: true
 5. Xiaojiang Peng, Yu Qiao, etc. Boosting VLAD with Supervised Dictionary Learning and High-Order Statistics. European Conference on Computer Vision (ECCV), 2014. [[PDF](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/pwqp_eccv14_shvlad.pdf)]
 
 
-### 2. Face recognition and 3D reconstruction
+### Topic 2. Face recognition and 3D reconstruction
 
-### 3. Facial emotion analysis
+### Topic 3. Facial emotion analysis
 
-### 4. Weakly-supervised deep learning
+### Topic 4. Weakly-supervised deep learning
