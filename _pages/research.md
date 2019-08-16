@@ -1,3 +1,8 @@
+---
+title: "Research"
+permalink: /research/
+author_profile: true
+---
 
 ### 1. Human action recognition and detection
 
