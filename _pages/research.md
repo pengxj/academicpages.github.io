@@ -3,7 +3,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
 ### 1. Human action recognition and detection
 
 1. Muchao Ye, Xiaojiang Peng, Yu Qiao, etc. AnoPCN: Video Anomaly Detection via Deep Predictive Coding Network. ACM MultiMedia, 2019.
