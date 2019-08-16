@@ -5,7 +5,7 @@ author_profile: true
 ---
 ### Topic 1. Human action recognition and detection
 
-[Human action recognition and detection in videos is a fundamental video understanding problem. We mainly focus on action recognition, anomaly detection, spatial-temporal detection, and temporal localization]()
+[Human action recognition and detection in videos is a fundamental video understanding problem. We mainly focus on action recognition, anomaly detection, spatial-temporal detection, and temporal localization.]()
 
 1. Muchao Ye, Xiaojiang Peng, Yu Qiao, etc. AnoPCN: Video Anomaly Detection via Deep Predictive Coding Network. ACM MultiMedia, 2019.
 
