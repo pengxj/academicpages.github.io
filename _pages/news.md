@@ -3,6 +3,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+ * [18/11/2019] One paper on Pose and Occlusion Robust Facial Expression Recognition are accepted by IEEE TIP 2019, collaborated with Kai Wang.
+  * [18/11/2019] One paper on joint Face Detection, Alignment, Quality Assessment and Attribute Analysis are accepted by ZTE Communications, collaborated with Da Guo.
  * [06/08/2019] Three papers on facial emotion are accepted by ICMI 2019.
  * [23/07/2019] One paper on detailed 3D face reconstruction from single image is accepted by ICCV 2019.
  * [15/07/2019] One paper on Video Anomaly Detection is accepted by ACMM MM 2019.
