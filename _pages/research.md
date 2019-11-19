@@ -50,7 +50,7 @@ author_profile: true
 
 ### Topic 4. Weakly-Supervised & Multi-label Deep Learning
 
-[Deep learning requires Big data, but what about annotations? Do we really need each sample to be annotated? How far can we go with a reduced set of annotations? Can we compensate the lack of annotations with more computation? Is it better to use a few clean annotations or more but noisy annotations?]()
+[Deep learning requires Big data, but what about annotations? We focus on the noisy annotation and multi-label classification problem.]()
 
 1. Qing Li, Xiaojiang Peng, Yu Qiao, etc. Product Image Recognition with Guidance Learning and Noisy Supervision. Arxiv 2019. [[PDF](https://arxiv.org/pdf/1907.11384.pdf)]
 
