@@ -22,6 +22,8 @@ author_profile: true
 
 [Facial analysis is the most successful real-world application of CV, we mainly focus on cross-modal face recognition and 3D face reconstruction.]()
 
+1. Da Guo, Qingfang Zheng, Xiaojiang Peng, Ming Liu. Face Detection, Alignment, Quality Assessment and Attribute Analysis with Multi-task Hybrid Convolutional Neural Networks. ZTE Communications, 2019. [[PDF](http://kns.cnki.net/kcms/detail/34.1294.TN.20190920.2104.004.html)]
+
 1. Zhongying Deng, Xiaojiang Peng, Yu Qiao, Zhifeng Li. Mutual Component Convolutional Neural Networks for Heterogeneous Face Recognition. IEEE Transactions on Image Processing, 2019.[[PDF](https://pengxj.github.io/files/TIP19-MCCNN.pdf)]
 
 2. Xiaoxing Zeng, Xiaojiang Peng, Yu Qiao. DF2Net: A Dense-Fine-Finer Network for Detailed 3D Face Reconstruction. ICCV, 2019.
@@ -34,6 +36,8 @@ author_profile: true
 
 [Our emotion is usually reflected by facial expression. Facial emotion analysis aims to understand our emotion in images or videos.]()
 
+ 1. Kai Wang, Xiaojiang Peng, Jianfei Yang, Debin Meng, Yu Qiao. Region Attention Networks for Pose and Occlusion Robust Facial Expression Recognition. IEEE Transactions on Image Processing, 2019.[[PDF](https://arxiv.org/pdf/1905.04075.pdf)]
+ 
 1. Debin Meng, Xiaojiang Peng, Yu Qiao, etc. Frame Attention Networks for Facial Expression Recognition in Videos. ICIP, 2019. [[PDF](https://arxiv.org/pdf/1907.00193.pdf)]
 
 2. Jin Ye, Xiaojiang Peng, Yu Qiao, etc. Visual-Textual Sentiment Analysis in Product Reviews. ICIP, 2019.
@@ -44,8 +48,10 @@ author_profile: true
 
 5. Lianzhi Tan, Xiaojiang Peng, Yu Qiao, etc. Group Emotion Recognition with Individual Facial Emotion CNNs and Global Image Based CNNs. International Conference on Multimodal Interaction (ICMI’17), ACM. [[PDF](https://pengxj.github.io/files/icmi17-paper.pdf)
 
-### Topic 4. Weakly-Supervised Deep Learning
+### Topic 4. Weakly-Supervised & Multi-label Deep Learning
 
 [Deep learning requires Big data, but what about annotations? Do we really need each sample to be annotated? How far can we go with a reduced set of annotations? Can we compensate the lack of annotations with more computation? Is it better to use a few clean annotations or more but noisy annotations?]()
 
 1. Qing Li, Xiaojiang Peng, Yu Qiao, etc. Product Image Recognition with Guidance Learning and Noisy Supervision. Arxiv 2019. [[PDF](https://arxiv.org/pdf/1907.11384.pdf)]
+
+1. Qing Li, Xiaojiang Peng, Yu Qiao, Qiang Peng. Learning Category Correlations for Multi-label Image Recognition with Graph Networks. Arxiv 2019. [[PDF](https://arxiv.org/abs/1909.13005)]
