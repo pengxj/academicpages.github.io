@@ -27,15 +27,15 @@ Full list at [Google Scholar](https://scholar.google.com/citations?user=7oRD67kA
  1. Xiaojiang Peng, Yu Qiao, etc. Motion Boundary Based Sampling and 3D Co-occurrence Descriptors for Action Recognition. Image and Vision Computing (IVC), 2014. [[PDF](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/pqp_dtmb3dcofea.pdf), [Bibtex](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/pengivc2014.bib), [Code](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/ivc_release_code.zip)]
 
 ### Conference papers
- 1. Debin Meng, Xiaojiang Peng, Yu Qiao, etc. Exploring Emotion Features and Fusion Strategies for Audio-Video Emotion Recognition. International Conference on Multimodal Interaction (ICMI’19), ACM [[PDF]()] *Rank 3/22 in EmotiW19 task 3*
+ 1. Debin Meng, Xiaojiang Peng, Yu Qiao, etc. Exploring Emotion Features and Fusion Strategies for Audio-Video Emotion Recognition. International Conference on Multimodal Interaction (ICMI’19), ACM [[PDF](https://dl.acm.org/citation.cfm?id=3340555.3355713)] *Rank 3/22 in EmotiW19 task 3*
 
- 1. Da Guo, Xiaojiang Peng, Yu Qiao, etc. Exploring Regularizations with Face, Body and Image Cues for Group Cohesion Prediction. International Conference on Multimodal Interaction (ICMI’19), ACM [[PDF]()] *Rank 2 in EmotiW19 task 1*
+ 1. Da Guo, Xiaojiang Peng, Yu Qiao, etc. Exploring Regularizations with Face, Body and Image Cues for Group Cohesion Prediction. International Conference on Multimodal Interaction (ICMI’19), ACM [[PDF](https://dl.acm.org/citation.cfm?id=3355712)] *Rank 2 in EmotiW19 task 1*
  
  1. Kai Wang, Xiaojiang Peng, Yu Qiao, etc. Bootstrap Model Ensemble and Rank Loss for Engagement Intensity Regression. International Conference on Multimodal Interaction (ICMI’19), ACM [[PDF](https://arxiv.org/pdf/1907.03422)] *Rank 3 in EmotiW19 task 2*
  
- 1. Xiaoxing Zeng, Xiaojiang Peng, Yu Qiao. DF2Net: A Dense-Fine-Finer Network for Detailed 3D Face Reconstruction. ICCV, 2019. [[PDF]()]
+ 1. Xiaoxing Zeng, Xiaojiang Peng, Yu Qiao. DF2Net: A Dense-Fine-Finer Network for Detailed 3D Face Reconstruction. ICCV, 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_DF2Net_A_Dense-Fine-Finer_Network_for_Detailed_3D_Face_Reconstruction_ICCV_2019_paper.pdf)]
  
- 1. Muchao Ye, Xiaojiang Peng, Yu Qiao, etc. AnoPCN: Video Anomaly Detection via Deep Predictive Coding Network. ACM MultiMedia, 2019. [[PDF]()]
+ 1. Muchao Ye, Xiaojiang Peng, Yu Qiao, etc. AnoPCN: Video Anomaly Detection via Deep Predictive Coding Network. ACM MultiMedia, 2019. [[PDF](http://delivery.acm.org/10.1145/3360000/3350899/p1805-ye.pdf?ip=210.75.253.91&id=3350899&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2E6FFDCCEC948C43C2%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1574745248_d313370f3b105abecb8687105b9c2272)]
 
  1. Debin Meng, Xiaojiang Peng, Yu Qiao, etc. Frame Attention Networks for Facial Expression Recognition in Videos. ICIP, 2019. [[PDF](https://arxiv.org/pdf/1907.00193.pdf)]
  
