@@ -17,7 +17,7 @@ I obtained my Ph.D. from Southwest Jiaotong University, China, advised by Prof. 
 
 My current interests focus on
 
-* human action recognition and detection
-* face recognition and 3D reconstruction
-* facial emotion analysis
-* weakly-supervised deep learning  
+* Video understanding
+* Visual affective computing 
+* Learning for 3D reconstruction
+* Weakly-supervised deep learning  
