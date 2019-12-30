@@ -8,6 +8,8 @@ Full list at [Google Scholar](https://scholar.google.com/citations?user=7oRD67kA
 
 ### Journal papers
  
+ 1. Jiaze Wang, Xiaojiang Peng, Yu Qiao. Cascade Multi-Head Attention Networks for Action Recognition. Computer Vision and Image Understanding (CVIU), 2020.[[PDF]()
+ 
  1. Kai Wang, Xiaojiang Peng, Jianfei Yang, Debin Meng, Yu Qiao. Region Attention Networks for Pose and Occlusion Robust Facial Expression Recognition. IEEE Transactions on Image Processing, 2019.[[PDF](https://arxiv.org/pdf/1905.04075.pdf)]
  
  1. Da Guo, Qingfang Zheng, Xiaojiang Peng, Ming Liu. Face Detection, Alignment, Quality Assessment and Attribute Analysis with Multi-task Hybrid Convolutional Neural Networks. ZTE Communications, 2019. [[PDF](http://kns.cnki.net/kcms/detail/34.1294.TN.20190920.2104.004.html)]
