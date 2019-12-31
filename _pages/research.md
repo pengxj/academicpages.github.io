@@ -7,6 +7,8 @@ author_profile: true
 
 [Human action in videos is a fundamental video understanding problem. We mainly focus on action recognition, anomaly detection, spatial-temporal detection, temporal localization, and action prediction.]()
 
+ 1. Jiaze Wang, Xiaojiang Peng, Yu Qiao. Cascade Multi-Head Attention Networks for Action Recognition. Computer Vision and Image Understanding (CVIU), 2020.[[PDF](/files/CAN.pdf)]
+
 1. Muchao Ye, Xiaojiang Peng, Yu Qiao, etc. AnoPCN: Video Anomaly Detection via Deep Predictive Coding Network. ACM MultiMedia, 2019.
 
 2. Xiaojiang Peng and Cordelia Schmid. Multi-region two-stream R-CNN for action detection. European Conference on Computer Vision (ECCV), 2016. [[PDF](https://hal.inria.fr/hal-01349107v1/document), [code](https://github.com/pengxj/action-faster-rcnn)]
