@@ -12,7 +12,7 @@ Full list at [Google Scholar](https://scholar.google.com/citations?user=7oRD67kA
  
  1. Kai Wang, Xiaojiang Peng, Jianfei Yang, Debin Meng, Yu Qiao. Region Attention Networks for Pose and Occlusion Robust Facial Expression Recognition. IEEE Transactions on Image Processing, 2019.[[PDF](https://arxiv.org/pdf/1905.04075.pdf)]
  
- 1. Da Guo, Qingfang Zheng, Xiaojiang Peng, Ming Liu. Face Detection, Alignment, Quality Assessment and Attribute Analysis with Multi-task Hybrid Convolutional Neural Networks. ZTE Communications, 2019. [[PDF](http://kns.cnki.net/kcms/detail/34.1294.TN.20190920.2104.004.html)]
+ 1. Da Guo, Qingfang Zheng, Xiaojiang Peng, Ming Liu. Face Detection, Alignment, Quality Assessment and Attribute Analysis with Multi-task Hybrid Convolutional Neural Networks. ZTE Communications, 2019. [[PDF](https://res-www.zte.com.cn/mediares/magazine/publication/com_en/article/201903/en201903004.pdf)]
  
  1. Zhongying Deng, Xiaojiang Peng, Yu Qiao, Zhifeng Li. Mutual Component Convolutional Neural Networks for Heterogeneous Face Recognition. IEEE Transactions on Image Processing, 2019.[[PDF](/files/TIP19-MCCNN.pdf)]
 
