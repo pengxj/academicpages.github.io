@@ -3,6 +3,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+ * [24/2/2020] One paper on Large-scale Facial Expression Recognition is accepted by CVPR 2020, collaborated with Kai Wang.
  * [30/12/2019] One paper on Action Recognition is accepted by CVIU 2020, collaborated with Jiaze Wang.
  * [18/11/2019] One paper on Pose and Occlusion Robust Facial Expression Recognition is accepted by IEEE TIP 2019, collaborated with Kai Wang.
   * [18/11/2019] One paper on joint Face Detection, Alignment, Quality Assessment and Attribute Analysis are accepted by ZTE Communications, collaborated with Da Guo.
