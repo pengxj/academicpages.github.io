@@ -8,6 +8,8 @@ Full list at [Google Scholar](https://scholar.google.com/citations?user=7oRD67kA
 
 ### Journal Articles
  
+ 1. Qing Li, Xiaojiang Peng, Liangliang Cao, Wenbin Du, Hao Xing, Yu Qiao. Product Image Recognition with Guidance Learning and Noisy Supervision. Computer Vision and Image Understanding (CVIU), 2020.[[PDF]](https://arxiv.org/pdf/1907.11384.pdf)
+ 
  1. Jiaze Wang, Xiaojiang Peng, Yu Qiao. Cascade Multi-Head Attention Networks for Action Recognition. Computer Vision and Image Understanding (CVIU), 2020.[[PDF]](/files/CAN.pdf)
  
  1. Kai Wang, Xiaojiang Peng, Jianfei Yang, Debin Meng, Yu Qiao. Region Attention Networks for Pose and Occlusion Robust Facial Expression Recognition. IEEE Transactions on Image Processing, 2019.[[PDF](https://arxiv.org/pdf/1905.04075.pdf)]
