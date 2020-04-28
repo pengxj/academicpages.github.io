@@ -38,6 +38,8 @@ author_profile: true
 
 [Our emotion is usually reflected by facial expression. Facial emotion analysis aims to understand our emotion in images or videos.]()
 
+ 1. Kai Wang, Xiaojiang Peng, Yu Qiao, etc. Suppressing Uncertainties for Large-Scale Facial Expression Recognition. CVPR, 2020.[[PDF](https://arxiv.org/pdf/2002.10392.pdf), [code](https://github.com/kaiwang960112/Self-Cure-Network)]
+ 
  1. Kai Wang, Xiaojiang Peng, Jianfei Yang, Debin Meng, Yu Qiao. Region Attention Networks for Pose and Occlusion Robust Facial Expression Recognition. IEEE Transactions on Image Processing, 2019.[[PDF](https://arxiv.org/pdf/1905.04075.pdf)]
  
 1. Debin Meng, Xiaojiang Peng, Yu Qiao, etc. Frame Attention Networks for Facial Expression Recognition in Videos. ICIP, 2019. [[PDF](https://arxiv.org/pdf/1907.00193.pdf)]
@@ -54,6 +56,6 @@ author_profile: true
 
 [Deep learning requires Big data, but what about annotations? We focus on the noisy annotation and multi-label classification problem.]()
 
-1. Qing Li, Xiaojiang Peng, Yu Qiao, etc. Product Image Recognition with Guidance Learning and Noisy Supervision. Arxiv 2019. [[PDF](https://arxiv.org/pdf/1907.11384.pdf)]
+1. Qing Li, Xiaojiang Peng, Yu Qiao, etc. Product Image Recognition with Guidance Learning and Noisy Supervision. CVIU 2020. [[PDF](https://arxiv.org/pdf/1907.11384.pdf)]
 
 1. Qing Li, Xiaojiang Peng, Yu Qiao, Qiang Peng. Learning Category Correlations for Multi-label Image Recognition with Graph Networks. Arxiv 2019. [[PDF](https://arxiv.org/abs/1909.13005)]
