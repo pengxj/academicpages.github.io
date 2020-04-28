@@ -47,7 +47,7 @@ Full list at [Google Scholar](https://scholar.google.com/citations?user=7oRD67kA
  
  1. Jin Ye, Xiaojiang Peng, Yu Qiao, etc. Visual-Textual Sentiment Analysis in Product Reviews. ICIP, 2019. [[PDF](https://ieeexplore.ieee.org/abstract/document/8802992)]
  
- 1. Zhongying Deng, Xiaojiang Peng, Yu Qiao.  Residual Compensation Networks for Heterogeneous Face Recognition. AAAI, 2019.[[PDF](/files/AAAI19-RCN.pdf)]
+ 1. Zhongying Deng, Xiaojiang Peng, Yu Qiao.  Residual Compensation Networks for Heterogeneous Face Recognition. AAAI, 2019.[[PDF](/files/AAAI19-RCN.pdf),[code](https://github.com/Zhongying-Deng/RCN)]
 
  1. Jianfei Yang, Xiaojiang Peng, Yu Qiao, etc. Deep Recurrent Multi-instance Learning with Spatio-temporal Features for Engagement Intensity Prediction. International Conference on Multimodal Interaction (ICMI’18), ACM.[[PDF](/files/icmi18-yang.pdf), [Poster](/files/icmi18-yang-poster.pdf)]
 
