@@ -31,6 +31,14 @@ Full list at [Google Scholar](https://scholar.google.com/citations?user=7oRD67kA
  1. Xiaojiang Peng, Yu Qiao, etc. Motion Boundary Based Sampling and 3D Co-occurrence Descriptors for Action Recognition. Image and Vision Computing (IVC), 2014. [[PDF](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/pqp_dtmb3dcofea.pdf), [Bibtex](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/pengivc2014.bib), [Code](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/ivc_release_code.zip)]
 
 ### Conference Articles
+ 1. Xiaojiang Peng, Kai Wang, Zhaoyang Zeng, Qing Li, Jianfei Yang, Yu Qiao. Suppressing Mislabeled Data via Grouping and Self-Attention. ECCV, 2020.
+ 
+ 1. Jin Ye, Junjun He, Xiaojiang Peng, Wenhao Wu, Yu Qiao. Attention-Driven Dynamic Graph Convolutional Network for Multi-Label Image Recognition. ECCV, 2020.
+ 
+ 1. Zhi Hou, Xiaojiang Peng, Yu Qiao, Dacheng Tao. Visual Compositional Learning for Human Object Interaction Detection. ECCV, 2020.
+ 
+ 1. Xingyu Fan, Zhongying Deng, Kai Wang, Xiaojiang Peng, Yu Qiao. Learning Discriminative Representation for Facial Expression Recognition from Uncertainties. ICIP, 2020.
+ 
  1. Kai Wang, Xiaojiang Peng, Yu Qiao, etc. Suppressing Uncertainties for Large-Scale Facial Expression Recognition. CVPR, 2020.[[PDF](https://arxiv.org/pdf/2002.10392.pdf), [code](https://github.com/kaiwang960112/Self-Cure-Network)]
  
  1. Debin Meng, Xiaojiang Peng, Yu Qiao, etc. Exploring Emotion Features and Fusion Strategies for Audio-Video Emotion Recognition. International Conference on Multimodal Interaction (ICMI’19), ACM [[PDF](https://dl.acm.org/citation.cfm?id=3340555.3355713)] *Rank 3/22 in EmotiW19 task 3*
