@@ -3,6 +3,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+ * [03/7/2020] Three papers are accepted by ECCV 2020.
+ * [02/6/2020] One paper on Facial Expression Recognition is accepted by ICIP 2020.
  * [02/4/2020] One paper on Product Image Classification with Noisy labels is accepted by CVIU 2020, collaborated with Qing Li.
  * [24/2/2020] One paper on Large-scale Facial Expression Recognition is accepted by CVPR 2020, collaborated with Kai Wang.
  * [30/12/2019] One paper on Action Recognition is accepted by CVIU 2020, collaborated with Jiaze Wang.
