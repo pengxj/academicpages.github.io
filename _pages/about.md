@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor at [MMLAB](mmlab.siat.ac.cn), Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences ([CAS-SIAT](http://www.siat.cas.cn/)), China and collaborate closely with Prof. [Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/index.html).
+I am an Associate Professor at [MMLAB](http://mmlab.siat.ac.cn), Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences ([CAS-SIAT](http://www.siat.cas.cn/)), China and collaborate closely with Prof. [Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/index.html).
 
 I was a postdoctoral researcher at Idiap, Martigny, Switzerland from 1/7/2016 to 30/9/2017 and worked with Prof. [Francois Fleuret](http://www.idiap.ch/~fleuret/). My research was funded by the Swiss CTI FARGO project which mainly focus on RGB-IR-D face detection, alignment and recognition. 
 
