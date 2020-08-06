@@ -8,6 +8,10 @@ Full list at [Google Scholar](https://scholar.google.com/citations?user=7oRD67kA
 
 ### Journal Articles
  
+ 1. Qing Li, Xiaojiang Peng, Yu Qiao, Qiang Peng. Learning Category Correlations for Multi-label Image Recognition with Graph Networks. Pattern Recognition Letter, 2020.
+ 
+ 1. Xiaoxing Zeng, Xiaojiang Peng, Yali Wang, Yu Qiao. Finding Hard Faces with better Proposals and Classifier. Machine Vision Applications, 2020.
+ 
  1. Qing Li, Xiaojiang Peng, Liangliang Cao, Wenbin Du, Hao Xing, Yu Qiao. Product Image Recognition with Guidance Learning and Noisy Supervision. Computer Vision and Image Understanding (CVIU), 2020.[[PDF]](https://arxiv.org/pdf/1907.11384.pdf)
  
  1. Jiaze Wang, Xiaojiang Peng, Yu Qiao. Cascade Multi-Head Attention Networks for Action Recognition. Computer Vision and Image Understanding (CVIU), 2020.[[PDF]](/files/CAN.pdf)
