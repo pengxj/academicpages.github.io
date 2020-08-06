@@ -3,6 +3,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+ * [03/8/2020] Two papers on face detection and multi-label image recognition are accepted by journals.
  * [03/7/2020] Three papers are accepted by ECCV 2020.
  * [02/6/2020] One paper on Facial Expression Recognition is accepted by ICIP 2020.
  * [02/4/2020] One paper on Product Image Classification with Noisy labels is accepted by CVIU 2020, collaborated with Qing Li.
