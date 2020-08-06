@@ -43,6 +43,8 @@ Full list at [Google Scholar](https://scholar.google.com/citations?user=7oRD67kA
  
  1. Xingyu Fan, Zhongying Deng, Kai Wang, Xiaojiang Peng, Yu Qiao. Learning Discriminative Representation for Facial Expression Recognition from Uncertainties. ICIP, 2020.
  
+ 1. Sijie Ji, Kai Wang, Xiaojiang Peng, Yu Qiao, etc. Multiple Transfer Learning and Multi-label Balanced Training Strategies for Facial AU Detection In the Wild. CVPRW, 2020.
+
  1. Kai Wang, Xiaojiang Peng, Yu Qiao, etc. Suppressing Uncertainties for Large-Scale Facial Expression Recognition. CVPR, 2020.[[PDF](https://arxiv.org/pdf/2002.10392.pdf), [code](https://github.com/kaiwang960112/Self-Cure-Network)]
  
  1. Debin Meng, Xiaojiang Peng, Yu Qiao, etc. Exploring Emotion Features and Fusion Strategies for Audio-Video Emotion Recognition. International Conference on Multimodal Interaction (ICMI’19), ACM [[PDF](https://dl.acm.org/citation.cfm?id=3340555.3355713)] *Rank 3/22 in EmotiW19 task 3*
