@@ -3,6 +3,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+ * [18/11/2020] I have joined [Shenzhen Technology Universit (SZTU)](https://sztu.edu.cn/) as an Associate Professor since Nov. 2, 2020.
  * [03/8/2020] Two papers on face detection and multi-label image recognition are accepted by journals.
  * [03/7/2020] Three papers are accepted by ECCV 2020.
  * [02/6/2020] One paper on Facial Expression Recognition is accepted by ICIP 2020.
