@@ -8,9 +8,9 @@ Full list at [Google Scholar](https://scholar.google.com/citations?user=7oRD67kA
 
 ### Journal Articles
  
- 1. Qing Li, Xiaojiang Peng, Yu Qiao, Qiang Peng. Learning Category Correlations for Multi-label Image Recognition with Graph Networks. Pattern Recognition Letter, 2020.
+ 1. Qing Li, Xiaojiang Peng, Yu Qiao, Qiang Peng. Learning Category Correlations for Multi-label Image Recognition with Graph Networks. Pattern Recognition Letter, 2020. [[PDF](https://arxiv.org/pdf/1909.13005.pdf),[CODE](https://github.com/queenie88/A-GCN)]
  
- 1. Xiaoxing Zeng, Xiaojiang Peng, Yali Wang, Yu Qiao. Finding Hard Faces with better Proposals and Classifier. Machine Vision Applications, 2020.
+ 1. Xiaoxing Zeng, Xiaojiang Peng, Yali Wang, Yu Qiao. Finding Hard Faces with better Proposals and Classifier. Machine Vision Applications, 2020. [[PDF](https://link.springer.com/article/10.1007/s00138-020-01110-4)]
  
  1. Qing Li, Xiaojiang Peng, Liangliang Cao, Wenbin Du, Hao Xing, Yu Qiao. Product Image Recognition with Guidance Learning and Noisy Supervision. Computer Vision and Image Understanding (CVIU), 2020.[[PDF]](https://arxiv.org/pdf/1907.11384.pdf)
  
@@ -35,13 +35,13 @@ Full list at [Google Scholar](https://scholar.google.com/citations?user=7oRD67kA
  1. Xiaojiang Peng, Yu Qiao, etc. Motion Boundary Based Sampling and 3D Co-occurrence Descriptors for Action Recognition. Image and Vision Computing (IVC), 2014. [[PDF](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/pqp_dtmb3dcofea.pdf), [Bibtex](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/pengivc2014.bib), [Code](https://xjpeng.weebly.com/uploads/5/5/4/4/55444193/ivc_release_code.zip)]
 
 ### Conference Articles
- 1. Xiaojiang Peng, Kai Wang, Zhaoyang Zeng, Qing Li, Jianfei Yang, Yu Qiao. Suppressing Mislabeled Data via Grouping and Self-Attention. ECCV, 2020.
+ 1. Xiaojiang Peng, Kai Wang, Zhaoyang Zeng, Qing Li, Jianfei Yang, Yu Qiao. Suppressing Mislabeled Data via Grouping and Self-Attention. ECCV, 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610766.pdf)]
  
- 1. Jin Ye, Junjun He, Xiaojiang Peng, Wenhao Wu, Yu Qiao. Attention-Driven Dynamic Graph Convolutional Network for Multi-Label Image Recognition. ECCV, 2020.
+ 1. Jin Ye, Junjun He, Xiaojiang Peng, Wenhao Wu, Yu Qiao. Attention-Driven Dynamic Graph Convolutional Network for Multi-Label Image Recognition. ECCV, 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660647.pdf)]
  
- 1. Zhi Hou, Xiaojiang Peng, Yu Qiao, Dacheng Tao. Visual Compositional Learning for Human Object Interaction Detection. ECCV, 2020.
+ 1. Zhi Hou, Xiaojiang Peng, Yu Qiao, Dacheng Tao. Visual Compositional Learning for Human Object Interaction Detection. ECCV, 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600579.pdf),[CODE](https://github.com/zhihou7/VCL)]
  
- 1. Xingyu Fan, Zhongying Deng, Kai Wang, Xiaojiang Peng, Yu Qiao. Learning Discriminative Representation for Facial Expression Recognition from Uncertainties. ICIP, 2020.
+ 1. Xingyu Fan, Zhongying Deng, Kai Wang, Xiaojiang Peng, Yu Qiao. Learning Discriminative Representation for Facial Expression Recognition from Uncertainties. ICIP, 2020. [[PDF](https://ieeexplore.ieee.org/document/9190643)]
  
  1. Sijie Ji, Kai Wang, Xiaojiang Peng, Yu Qiao, etc. Multiple Transfer Learning and Multi-label Balanced Training Strategies for Facial AU Detection In the Wild. CVPRW, 2020.
 
