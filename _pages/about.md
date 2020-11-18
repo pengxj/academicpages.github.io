@@ -16,6 +16,8 @@ I was a postdoctoral researcher at Idiap, Martigny, Switzerland from 1/7/2016 to
 I was a postdoctoral researcher at [Inria LEAR/THOTH team](http://lear.inrialpes.fr/) from 1/3/2015 to 30/6/2016 where I worked with [Cordelia Schmid](http://lear.inrialpes.fr/people/schmid/). My research mainly focused on video action detection.
 I obtained my Ph.D. from Southwest Jiaotong University, China, advised by Prof. PENG Qiang.
 
-My current interests focus on **affective computing**, **unsupervised & weakly-supervised learning**, **face recognition**, and **AI edge computing**.
+My current interests focus on **affective computing**, **unsupervised & weakly-supervised learning**, **face recognition**, and **AI edge computing**. 
+
+*I have two postdoctoral positions in 2021, plz contact me by email*.
 
 Email: pengxiaojiang@sztu.edu.cn or xiaojiangp@gmail.com
